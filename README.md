@@ -21,7 +21,7 @@
 </ul>
 <h2>Status <a name="status_h"></a></h2>
 <p>Complete!! 🎉🎉🎉</p>
-<a href="https://cavs1010.github.io/passing_thoughts/"> Check the final result!! </a>
+<a href="https://cavs1010.github.io/copycat/"> Check the final result!! </a>
 
 <h2>Extra mile <a name="extra_m"></a></h2>
 <p>I have added a functionality with an annoying bird</p>
